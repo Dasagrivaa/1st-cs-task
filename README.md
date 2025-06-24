@@ -10,7 +10,7 @@ PORT     STATE SERVICE
 80/tcp   open  http
 tcp.port == 80 || tcp.port == 22
 
-Starting Nmap 7.94 ( https://nmap.org ) at 2025-06-24 10:00 IST
+Starting Nmap 7.94 at 2025-06-24 10:00 IST
 Nmap scan report for 192.168.1.1
 Host is up (0.0040s latency).
 Not shown: 997 closed ports
